@@ -1,2 +1,3 @@
 # Hello-world
-i am new to github
+I am new to github
+I am a student

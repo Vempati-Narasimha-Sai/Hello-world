@@ -1,3 +1,2 @@
 # Hello-world
-I am new to github
-I am a student
+This is a test repository to get through the basics of github
